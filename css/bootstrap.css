@@ -6798,14 +6798,9 @@ button.close {
   }
 }
 
-.footer {
-  position: absolute;
-  text-align: center;
-  bottom: 0;
-  width: 100%;
-  height: 40px;
-  font-size: 1.25em;
-}
+/***********************
+*** INDEX **************
+***********************/
 
 .maintitle {
   margin-top: 100px;
@@ -6925,6 +6920,67 @@ div.col-md-6.contact {
   list-style: none;
   width: 40px;
 }
+
+/***********************
+*** ABOUT US ***********
+***********************/
+
+.mission {
+  margin-top: 50px;
+}
+
+.mission h1 {
+  font-family: 'PT Sans', sans-serif;
+  font-weight: 700;
+  text-align: center;
+  color: #262b59;
+}
+
+.mission p {
+  font-family: 'PT Sans', sans-serif;
+  font-size: 1.25em;
+  text-align: center;
+  padding-left: 140px;
+  padding-right: 140px;
+}
+
+.execboard {
+  margin-top: 50px;
+  text-align: center;
+}
+
+.execboard h1 {
+  font-family: 'PT Sans', sans-serif;
+  font-weight: 700;
+  text-align: center;
+  color: #262b59;
+}
+
+.execboard img {
+  max-width: 150px;
+  height: auto;
+}
+
+.execboard ul {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.execboard li {
+  display: inline-block;
+  list-style: none;
+  width: 200px;
+  font-family: 'PT Sans', sans-serif;
+}
+
+.execboard p {
+  text-align: center;
+  font-family: 'PT Sans', sans-serif;
+}
+
+/***********************
+*** FOOTER *************
+***********************/
 
 .footercontent {
   position: absolute;
