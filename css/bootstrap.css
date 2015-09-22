@@ -6853,15 +6853,15 @@ button.close {
 }
 
 .registration {
-  height: 350px;
+  height: 450px;
   background-color: #a2e0fc;
 }
 
 .registerlink {
   text-align: center;
   font-family: 'PT Sans', sans-serif;
-  padding-left: 40px;
-  padding-right: 40px;
+  padding-left: 55px;
+  padding-right: 55px;
   padding-top: 20px;
 }
 
@@ -6874,6 +6874,10 @@ button.close {
 
 .registerlink p {
   font-size: 1.5em;
+}
+
+.registerlink a:hover {
+  text-decoration: none;
 }
 
 .contactcontent {
@@ -6956,9 +6960,8 @@ div.col-md-6.contact {
   color: #262b59;
 }
 
-.execboard img {
-  max-width: 150px;
-  height: auto;
+.execboard {
+  margin-bottom: 100px;
 }
 
 .execboard ul {
@@ -6967,15 +6970,14 @@ div.col-md-6.contact {
 }
 
 .execboard li {
-  display: inline-block;
   list-style: none;
-  width: 200px;
   font-family: 'PT Sans', sans-serif;
+  font-size: 1.15em;
+  padding-bottom: 5px;
 }
 
-.execboard p {
-  text-align: center;
-  font-family: 'PT Sans', sans-serif;
+.execboard a:hover {
+  text-decoration: none;
 }
 
 /***********************
@@ -7058,7 +7060,10 @@ div.col-md-6.contact {
   height: 40px;
   margin-top: 15px;
   font-family: 'PT Sans', sans-serif;
-  /*font-size: 1.25em;*/
+}
+
+.footercontent-index img {
+  width: 200px;
 }
 
 .footercontent {
@@ -7066,10 +7071,18 @@ div.col-md-6.contact {
   text-align: center;
   bottom: 0;
   width: 100%;
-  height: 90px;
+  height: 60px;
   margin-top: 15px;
   font-family: 'PT Sans', sans-serif;
-  /*font-size: 1.25em;*/
+}
+
+.footercontent .copy {
+  padding-top: 15px;
+}
+
+.footercontent .cmu-logo img {
+  padding-top: 15px;
+  width: 200px;
 }
 
 .grid {
