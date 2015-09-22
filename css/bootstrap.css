@@ -6843,8 +6843,8 @@ button.close {
   color: #a2e0fc;
 }
 
-#nav .nav-justified > a:hover {
-  color: #ffffff;
+#nav .nav-justified > li > a:hover {
+  text-decoration: underline;
   background-color: #ffffff;
 }
 
