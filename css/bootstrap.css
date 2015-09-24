@@ -7032,6 +7032,7 @@ div.col-md-6.contact {
 
 .faq {
   margin-top: 50px;
+  margin-bottom: 80px;
 }
 
 .faq h1 {
@@ -7041,9 +7042,17 @@ div.col-md-6.contact {
   padding-left: 140px;
 }
 
+.faq h5 {
+  font-family: 'PT Sans', sans-serif;
+  font-weight: 700;
+  color: #262b59;
+  padding-left: 140px;
+  font-size: 1.25em;
+}
+
 .faq p {
   font-family: 'PT Sans', sans-serif;
-  font-size: 1.25em;
+  font-size: 1.1em;
   padding-left: 140px;
   padding-right: 140px;
 }
