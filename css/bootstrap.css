@@ -7019,9 +7019,21 @@ div.col-md-6.contact {
   text-align: left;
 }
 
+.sites {
+  margin-bottom: 80px;
+}
+
+.sites h5 {
+  font-family: 'PT Sans', sans-serif;
+  font-weight: 700;
+  color: #262b59;
+  padding-left: 140px;
+  font-size: 1.25em;
+}
+
 .sites p {
   font-family: 'PT Sans', sans-serif;
-  font-size: 1.25em;
+  font-size: 1.1em;
   padding-left: 140px;
   padding-right: 140px;
 }
