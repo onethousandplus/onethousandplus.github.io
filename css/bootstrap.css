@@ -7019,6 +7019,10 @@ div.col-md-6.contact {
   text-align: left;
 }
 
+.sitetitle a {
+  text-decoration: none;
+}
+
 .sites {
   margin-bottom: 80px;
 }
